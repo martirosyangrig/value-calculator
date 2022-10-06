@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>RUR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11" cy="11" r="11"></circle>
+    </defs>
+    <g id="RUR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Russia" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval-1" fill="#0039A6" xlink:href="#path-1"></use>
+            <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="-6.76931852 -0.642725926 28.7196148 -0.642725926 28.7196148 7.11154074 -6.76931852 7.11154074"></polygon>
+            <polygon id="Fill-3" fill="#D52B1E" mask="url(#mask-2)" points="-6.76931852 14.8662963 28.7196148 14.8662963 28.7196148 22.620563 -6.76931852 22.620563"></polygon>
+        </g>
+    </g>
+</svg>

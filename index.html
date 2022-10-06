@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+	<header>
+		<div class = "cont">
+            <div class="valuta">
+                <div class="sell">
+                    <span>Առք</span>
+                    <span>Վաճառք</span>
+                </div>
+                <div class="t">
+                    <div class="logos">
+                        <span><img src="./imgd/currency-usd.svg" alt="usd" class="img"></span> 
+                        <span>USD</span>
+                    </div>
+                    <div class="price">
+                        <span>406</span>
+                        <span>418</span>                        
+                    </div>
+                </div>
+                <div class="t">
+                    <div class="logos">
+                        <span><img src="./imgd/currency-eur.svg" alt="eur" class="img"></span>
+                        <span>EUR</span>
+                    </div>
+                    <div class="price">
+                        <span>398</span>
+                        <span>415</span>
+                    </div>
+                </div>
+                <div class="t">
+                    <div class="logos">
+                        <span><img src="./imgd/currency-rub.svg" alt="rub" class="img"></span>
+                    <span>RUB</span>
+                    </div>
+                    <div class="price">
+                        <span>6.3</span>
+                        <span>7.2</span>
+                    </div>
+                </div>
+                <div class="t">
+                    <div class="logos">
+                        <span><img src="./imgd/currency-gbp.svg" alt="gbp" class="img"></span>
+                        <span>GBP</span>
+                    </div>
+                    <div class="price">
+                        <span>448</span>
+                        <span>465</span>
+                    </div>
+                </div>
+            </div>
+            <div class="calc">
+                <div class = "select">
+                    <div class="selector">
+                        <select name="valut" id="valut1">
+                            <option value="usd">USD</option>
+                            <option value="eur">EUR</option>
+                            <option value="rub">RUB</option>
+                            <option value="amd" selected="selected">AMD</option>
+                        </select>
+                    </div>
+                    <div class="btn">
+                        <img src="./imgd/inverse.svg" alt="butn">
+                    </div>
+                    <div class="selector">
+                        <select name="valut" id="valut2">
+                            <option value="usd" selected="selected">USD</option>
+                            <option value="eur">EUR</option>
+                            <option value="rub">RUB</option>
+                            <option value="amd" >AMD</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="change">
+                    <label >
+                        <input type="number" placeholder="Put" id="firstInput">
+                    </label>
+                    <div class="blok"></div>
+                    <label >
+                        <input type="number" placeholder="Get" id="secondInput">
+                    </label>
+                </div>
+            </div>
+        </div>
+	</header>
+	<script src="js/script.js"></script>
+</body>
+</html>

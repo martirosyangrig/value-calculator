@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>United Kingdom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="individuals_main-copy" transform="translate(-829.000000, -2651.000000)">
+            <g id="Group-41" transform="translate(797.000000, 2394.000000)">
+                <g id="United-Kingdom" transform="translate(32.000000, 257.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval-1" fill="#171F69" xlink:href="#path-1"></use>
+                    <polyline id="Fill-2" fill="#FFFFFF" mask="url(#mask-2)" points="-9.23377778 10.8807111 -3.10826667 10.8807111 -9.23377778 7.80657778 -9.23377778 -0.209066667 -9.11502222 -0.209066667 10.5244444 9.5808 10.5244444 -0.209066667 21.5843556 -0.209066667 21.5843556 9.5808 41.2252444 -0.209066667 41.4122667 -0.209066667 41.4122667 7.78737778 35.2177778 10.8807111 41.4122667 10.8807111 41.4122667 21.9776 35.2177778 21.9776 41.4122667 25.0709333 41.4122667 33.0688 41.2252444 33.0688 21.5843556 23.2775111 21.5843556 33.0688 10.5244444 33.0688 10.5244444 23.2775111 -9.11502222 33.0688 -9.23377778 33.0688 -9.23377778 25.0510222 -3.10826667 21.9776 -9.23377778 21.9776 -9.23377778 10.8807111"></polyline>
+                    <polyline id="Fill-3" fill="#ED1B2D" mask="url(#mask-2)" points="41.4122667 1.13564444 21.9128889 10.8878222 27.2248889 10.8878222 41.4122667 3.76462222 41.4122667 1.13564444"></polyline>
+                    <polyline id="Fill-4" fill="#ED1B2D" mask="url(#mask-2)" points="41.4122667 29.1015111 27.2014222 21.9776 32.5361778 21.9776 41.4122667 26.4426667 41.4122667 29.1015111"></polyline>
+                    <polyline id="Fill-5" fill="#ED1B2D" mask="url(#mask-2)" points="5.08231111 10.8878222 -9.23377778 3.74186667 -9.23377778 6.40284444 -0.2752 10.8878222 5.08231111 10.8878222"></polyline>
+                    <polyline id="Fill-6" fill="#ED1B2D" mask="url(#mask-2)" points="5.0368 21.9776 -9.23377778 29.1121778 -9.23377778 31.7660444 10.3488 21.9776 5.0368 21.9776"></polyline>
+                    <polyline id="Fill-7" fill="#ED1B2D" mask="url(#mask-2)" points="-9.23377778 13.1825778 12.8810667 13.1825778 12.8810667 -0.209066667 19.3792 -0.209066667 19.3792 13.1825778 41.4122667 13.1825778 41.4122667 19.6807111 19.3792 19.6807111 19.3792 33.0688 12.8810667 33.0688 12.8810667 19.6807111 -9.23377778 19.6807111 -9.23377778 13.1825778"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
